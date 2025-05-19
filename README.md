@@ -10,7 +10,9 @@ The dashboard is designed in **Power BI** to support:
 
 
 ## 📊 Dashboard Preview
-![Data Survey ](https://github.com/user-attachments/assets/57fc1be0-34a8-4afc-8620-85840c07d061)
+![Bootcamp](https://github.com/user-attachments/assets/c63a31ff-929b-4456-ab43-05003cf831ee)
+
+[Bootcamp Project.pdf](https://github.com/user-attachments/files/20279489/Bootcamp.Project.pdf)
 
 ---
 
@@ -19,7 +21,7 @@ The dashboard is designed in **Power BI** to support:
 | File | Description |
 |------|-------------|
 | [Bootcamp Project.xlsx](https://github.com/user-attachments/files/19964292/Bootcamp.Project.xlsx) | Survey data (Job Title, Salary, Country, Language, Satisfaction Ratings) |
-| [Bootcamp Project.pdf](https://github.com/user-attachments/files/19964452/Bootcamp.Project.pdf) | Final dashboard exported as PDF |
+|[Bootcamp Project.pdf](https://github.com/user-attachments/files/20279489/Bootcamp.Project.pdf) | Final dashboard exported as PDF |
 ---
 
 ## 🧠 Key Insights
